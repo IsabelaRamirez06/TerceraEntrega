@@ -1,0 +1,72 @@
+div.row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+div.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+header {
+  background-color: #fce2ea;
+}
+
+.nav-item {
+  margin-right: 90px;
+}
+
+.navbar a:hover {
+  color: #f4a1b5;
+}
+
+.sectioncard button {
+  margin: 5px 20px 30px;
+  border-radius: 10% !important;
+  border: 6px solid transparent;
+  color: black;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: #fce2ea;
+  transition: 0.5s ease-in-out;
+  box-shadow: 0 0 10px #f4a1b5;
+  transition-duration: 0.4s;
+  transition-property: box-shadow, transform;
+}
+.sectioncard button:hover {
+  background-color: #f4a1b5;
+  box-shadow: 0 0 20px #f4a1b5;
+  transform: scale(1.1);
+}
+
+.card-img-top {
+  width: 100px;
+  height: 250px;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  object-fit: cover;
+}
+.card-img-top:hover {
+  transform: scale(1.1);
+}
+
+.sectioncard {
+  text-align: center;
+  padding: 30px;
+}
+
+.card-title {
+  font-size: 15px;
+}
+
+footer {
+  background-color: #fce2ea;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Montserrat", sans-serif;
+}
+
+/*# sourceMappingURL=estilos.css.map */
