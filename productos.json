@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "nombre": "ANILLOS SILVEN YIN YANG",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos1.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 2,
+        "nombre": "ANILLOS SILVER ZAFIRO",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos2.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 3,
+        "nombre": "ANILLOS GOLDEN AMARU",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos3.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 4,
+        "nombre": "ANILLOS GLODEN SILVI",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos4.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 5,
+        "nombre": "ANILLOS SILVEN NOIR",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos5.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 6,
+        "nombre": "ANILLOS GOLDEN MELANIE",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos6.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 7,
+        "nombre": "ANILLOS GOLDEN SHIMMERING",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos7.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 8,
+        "nombre": "ANILLOS SILVEN GOLDEN",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos8.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 9,
+        "nombre": "ANILLOS SILVEN CASCABEL",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos9.PNG",
+        "alt": "Anillos para mujer"
+    },
+
+    {
+        "id": 10,
+        "nombre": "ANILLOS SILVEN ROMBO",
+        "precio": 25000,
+        "cantidad": 1,
+        "img": "Img/anillos10.PNG",
+        "alt": "Anillos para mujer"
+    }
+
+    
+]
